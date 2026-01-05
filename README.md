@@ -1,4 +1,4 @@
-# YOLOv8-on-Google-Coral-Edge-TPU
+# Google-Coral-DevBoard-Edge-TPU-Implementation
 ## YOLOv8-CLS Model Conversion for Coral Edge TPU Deployment
 
 End-to-end pipeline for converting trained YOLOv8 classification models (`.pt`) from PyTorch to TFLite format compatible with **Google Coral Dev Board (Edge TPU)**. This guide includes model export, quantization, Edge TPU compilation, and final deployment steps.
